@@ -11,6 +11,10 @@ BACKEND INSTALLATION INSTRUCTIONS:
 -python manage migrate
 -python manage runserver
 
+In this project the tech stack I decided to use was React for the frontend and Django for the backend. I decided on Django because I have planty of experience with python but I'd never used Django before, so I wanted to get aquainted with it, since I know its part of stable.work's tech stack. And for React, I also wanted to become more familiar with it, since it was mentioned to me that it's used alot at stable.work, I have some experience on personal and school project but not in a professional setting, so I wanted to brush up on those skills as well!
+
+I've never used Django before and you mentioned that it was part of your tech stack. Familiar with python.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
